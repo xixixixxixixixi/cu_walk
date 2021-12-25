@@ -1,3 +1,10 @@
+# Contributors (Alphabetic Order): 
+  Chuwen Song(GitHub: songc5)
+  Gefei Zhang (GitHub: gefeiniangniang) 
+  Yanhao Li (GitHub: xixixixxixixixi)
+  Yuzhao Liu (GitHub: lyz9518)
+
+
 # cu_walk
 Columbia University Walk Partner Finder
 
