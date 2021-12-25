@@ -8,7 +8,7 @@
   Yuzhao Liu (GitHub: lyz9518)
 
 # APP
-see more details at https://www.youtube.com/watch?v=S8zG7kNJjHU
+See more details at https://www.youtube.com/watch?v=S8zG7kNJjHU
 
 Only CU students can be authorized to register
 
