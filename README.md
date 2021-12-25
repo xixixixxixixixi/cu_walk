@@ -39,7 +39,8 @@ real time location.
 <img height="50%" src="stuffForReadme/WechatIMG79.png" width="50%"/>
 
 # Architecture
-![](stuffForReadme/Untitled Diagram.drawio.png)
+
+<img src="stuffForReadme/Untitled Diagram.drawio.png"/>
 
 # cu_walk
 Columbia University Walk Partner Finder
