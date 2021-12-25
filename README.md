@@ -7,6 +7,25 @@
   
   Yuzhao Liu (GitHub: lyz9518)
 
+# APP
+Only CU students can be authorized to register
+![](stuffForReadme/WechatIMG80.png)
+Authorization
+![](stuffForReadme/WechatIMG81.png)
+Fill in basic personal information
+![](stuffForReadme/WechatIMG82 1.jpeg)
+You have two options, start a trip or monitor a trip
+![](stuffForReadme/WechatIMG78.jpeg)
+Start your trip with your group! Any abnormal action is 
+monitored and will trigger SMS notification to your 
+emergency contact.
+![](stuffForReadme/WechatIMG83.png)
+Trip Monitoring. If you are listed as a emergency 
+contact by your friends, then you have access to all of your friends' routes and 
+real time location.
+![](stuffForReadme/WechatIMG79.png)
+# Architecture
+![](stuffForReadme/Untitled Diagram.drawio.png)
 
 # cu_walk
 Columbia University Walk Partner Finder
