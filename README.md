@@ -1,7 +1,10 @@
 # Contributors (Alphabetic Order): 
   Chuwen Song(GitHub: songc5)
+  
   Gefei Zhang (GitHub: gefeiniangniang) 
+  
   Yanhao Li (GitHub: xixixixxixixixi)
+  
   Yuzhao Liu (GitHub: lyz9518)
 
 
@@ -15,11 +18,3 @@ Login page:
 
 https://lionwalkonetwo.auth.us-east-1.amazoncognito.com/login?redirect_uri=https%3A%2F%2F6998frontendtest.s3.amazonaws.com%2FcognitoRedirect.html&response_type=token&client_id=uudop5ji4a930hd2ld8gio4qn
 
-Contributors (Alphabetic Order): 
-  Chuwen Song(GitHub: songc5)
-  
-  Gefei Zhang (GitHub: gefeiniangniang) 
-  
-  Yanhao Li (GitHub: xixixixxixixixi)
-  
-  Yuzhao Liu (GitHub: lyz9518)
