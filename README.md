@@ -8,22 +8,36 @@
   Yuzhao Liu (GitHub: lyz9518)
 
 # APP
+see more details at https://www.youtube.com/watch?v=S8zG7kNJjHU
+
 Only CU students can be authorized to register
-![](stuffForReadme/WechatIMG80.png){:height="50%" width="50%"}
+
+<img height="50%" src="stuffForReadme/WechatIMG80.png" width="50%"/> 
+
 Authorization
-![](stuffForReadme/WechatIMG81.png){:height="50%" width="50%"}
+
+<img height="50%" src="stuffForReadme/WechatIMG81.png" width="50%"/>
+
 Fill in basic personal information
-![](stuffForReadme/WechatIMG82 1.jpeg){:height="50%" width="50%"}
+
+<img height="50%" src="stuffForReadme/WechatIMG82 1.jpeg" width="50%"/>
+
 You have two options, start a trip or monitor a trip
-![](stuffForReadme/WechatIMG78.jpeg){:height="50%" width="50%"}
+
+<img height="50%" src="stuffForReadme/WechatIMG78.jpeg" width="50%"/>
+
 Start your trip with your group! Any abnormal action is 
 monitored and will trigger SMS notification to your 
 emergency contact.
-![](stuffForReadme/WechatIMG83.png){:height="50%" width="50%"}
+
+<img height="50%" src="stuffForReadme/WechatIMG83.png" width="50%"/>
+
 Trip Monitoring. If you are listed as a emergency 
 contact by your friends, then you have access to all of your friends' routes and 
 real time location.
-![](stuffForReadme/WechatIMG79.png){:height="50%" width="50%"}
+
+<img height="50%" src="stuffForReadme/WechatIMG79.png" width="50%"/>
+
 # Architecture
 ![](stuffForReadme/Untitled Diagram.drawio.png)
 
